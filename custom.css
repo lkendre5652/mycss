@@ -1,0 +1,43 @@
+/* h1{
+    color:red;
+}
+p{
+    background-color: white;
+    color: green;
+} */
+/* #para{
+    color:red;
+}
+.mypara{
+    color: green;
+} */
+
+.container{
+    color: red;
+}
+
+
+.mytitle{
+    color:aqua;
+}
+
+.mytitle{
+    color: currentColor;    
+}
+/* .mytitle:hover{
+    color: red;
+    cursor: pointer;
+} */
+
+/* #para{
+    color: currentColor;
+} */
+/* 
+p{
+    color: blue;
+}
+
+#para{
+    color:green;
+} */
+
